@@ -19,12 +19,12 @@ public class Simulation
    /**
    * Number of frames in simulation
    */
-   private static final int FRAMES = 2000;
+   private static final int FRAMES = 4000;
    
    /**
    * Width of panel
    */
-   private static final int WIDTH = 500;
+   private static final int WIDTH = 1000;
    
    /**
    * Height of panel
@@ -49,7 +49,7 @@ public class Simulation
    /**
    * Radius of food
    */
-   private static final int FOOD_RADIUS = 10;
+   private static final int FOOD_RADIUS = 5;
    
    /**
    * Opens ant simulation

@@ -1,5 +1,5 @@
 # Ant Simulation
-This is simulation of an ant colony's behavior to retrieve food, inspired by [this video](https://github.com/ProfJAT/ant-simulation.git).  When an ant finds a selection of food, it backtracks to the colony, leaving a chemical trail that leads other ants to the spot.
+This is simulation of an ant colony's behavior to retrieve food, inspired by [this video](https://github.com/ProfJAT/ant-simulation.git).  When an ant finds a selection of food, it backtracks to the colony, leaving a chemical trail that leads other ants to the spot, and this program attempts to mimic this behavior.
 
 ## Quickstart
 This project requires installation of the JDK.
